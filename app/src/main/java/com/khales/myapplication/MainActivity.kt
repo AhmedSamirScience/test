@@ -8,8 +8,10 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView( R.layout.activity_main)
 
-        var x = 1 +1111
-    }
+        var x1 = 1 +1
+
+        var x = 2 +4
+     }
 
 
 
