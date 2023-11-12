@@ -8,7 +8,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView( R.layout.activity_main)
 
-        var x1 = 1 +5555
+        val x2 = "aaaa"
 
         var x = 2 +5555
      }
